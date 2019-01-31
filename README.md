@@ -1,2 +1,4 @@
 # Tic_Tac_Toe_Game.cpp
-This is my begining game project using c++, There is the some error in my code. your suggestion will be most valuable for me.
+This is my begining game project using c++.
+Require two players, so You can play with your little brother or sister....
+
